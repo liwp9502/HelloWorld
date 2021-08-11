@@ -1,2 +1,7 @@
-//this is test.c file
+#include <stdio>
 
+int main()
+{
+	printf("hello world!");
+	return 0;
+}
